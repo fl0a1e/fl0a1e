@@ -1,6 +1,7 @@
 ## Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fl0a1e&show_icons=true" />
 
+
 ### language & tools
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
@@ -13,6 +14,7 @@
 ![](https://img.shields.io/badge/UE-0E1128?logo=unrealengine&logoColor=fff)
 ![](https://img.shields.io/badge/Godot-064F8C?logo=godotengine&logoColor=fff)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0a1e&layout=compact&hide=html" />
 
 ### env
 ![](https://img.shields.io/badge/Win11-0078D4?logo=windows11&logoColor=fff)
