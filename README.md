@@ -1,6 +1,9 @@
 ## Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fl0a1e&show_icons=true" />
+<!--
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fl0a1e&show_icons=true" />
+-->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0a1e&layout=compact&hide=html" />
 
 ### language & tools
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
@@ -18,7 +21,7 @@
 ### env
 ![](https://img.shields.io/badge/Win11-0078D4?logo=windows11&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0a1e&layout=compact&hide=html" />
+
 
 
 <!--
