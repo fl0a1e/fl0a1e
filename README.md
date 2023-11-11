@@ -14,11 +14,11 @@
 ![](https://img.shields.io/badge/UE-0E1128?logo=unrealengine&logoColor=fff)
 ![](https://img.shields.io/badge/Godot-064F8C?logo=godotengine&logoColor=fff)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0a1e&layout=compact&hide=html" />
 
 ### env
 ![](https://img.shields.io/badge/Win11-0078D4?logo=windows11&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0a1e&layout=compact&hide=html" />
 
 
 <!--
