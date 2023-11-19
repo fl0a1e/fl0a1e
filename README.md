@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Godot-064F8C?logo=godotengine&logoColor=fff)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
 
-### env
+### platform
 ![](https://img.shields.io/badge/Win11-0078D4?logo=windows11&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
 
