@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
-### searching
+### researching
 ![](https://img.shields.io/badge/UE-0E1128?logo=unrealengine&logoColor=fff)
 ![](https://img.shields.io/badge/Godot-064F8C?logo=godotengine&logoColor=fff)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
